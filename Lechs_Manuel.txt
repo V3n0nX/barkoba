@@ -2,3 +2,4 @@ KÉRDÉS?= Milyen színű?
 Fekete,fehér
 Kérdés?= Mozog?
 Szokott
+Akkor helló :D
