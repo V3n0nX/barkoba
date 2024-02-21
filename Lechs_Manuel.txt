@@ -3,3 +3,4 @@ Fekete,fehér
 Kérdés?= Mozog?
 Szokott
 Akkor helló :D
+Hello Hello
