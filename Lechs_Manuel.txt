@@ -1,1 +1,2 @@
 KÉRDÉS?= Milyen színű?
+Fekete,fehér
